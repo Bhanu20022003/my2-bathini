@@ -6,4 +6,4 @@ I absolutely love **VARANASI** because it offers a perfect blend of **DIVINITY**
 
 The moment I set foot in this incredible destination, I'm greeted by the soothing sound of ocean waves and the warmth of the sun on my skin. Whether I'm lounging on the beach, exploring the vibrant local culture, or indulging in the delicious cuisine, I'm constantly amazed by the sheer beauty and serenity of this place.
 
-If you're looking for the ultimate escape from the daily grind, I highly recommend visiting **VARANASI**. **It's a place where you can unwind*, recharge, and create memories.****The place consist of positive Energy.**
+If you're looking for the ultimate escape from the **Daily grind***, I highly recommend visiting **VARANASI**. It's a place where you can unwind*, recharge, and **Create memories**.The place consist of positive Energy.
