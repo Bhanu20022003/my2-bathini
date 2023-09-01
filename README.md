@@ -1,6 +1,6 @@
 # BHANU PRAKASH BATHINI
 
-#### VARANASI
+## VARANASI
 
 I absolutely love **VARANASI** because it offers a perfect blend of **DIVINITY** and **DEVOTIONAL**. The  crystal-clear waters, and lush green landscapes make it a paradise for any traveler. 
 
