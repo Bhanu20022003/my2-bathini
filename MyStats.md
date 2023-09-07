@@ -22,3 +22,22 @@ The table below tells 4 different sports, the reason to play and the hours spent
 > "The important thing is not to stop questioning." - ***Albert Einstein*** <br/>
 
 > "In science, there are no shortcuts to truth." - ***Karl Popper***
+
+# Code Fencing 
+>How do you post to an iframe?
+**Get the current URL with HTML?** </br>
+go to StackOverflow : <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+``````
