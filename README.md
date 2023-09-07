@@ -17,3 +17,5 @@ If you're looking for the ultimate escape from the **Daily grind***, I highly re
 * Puri
 * Chepati
 * Pongal
+
+[MyStats](https://github.com/Bhanu20022003/my2-bathini/blob/main/MyStats.md)
