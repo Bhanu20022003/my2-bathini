@@ -6,5 +6,4 @@ Myself Bhanu and iam from India completed my bachlors study at vit vellore after
 
 <https://github.com/Bhanu20022003/my2-bathini/commit/346dad7ffe910f2d0bd6d4ef99e8de0bc4bf8ba1>
 
-[MyStats](https://github.com/Bhanu20022003/my2-bathini/blob/main/MyStats.md)
 
