@@ -11,7 +11,7 @@ Myself Bhanu and iam from India completed my bachlors study at vit vellore after
 
 The table below tells 4 different sports, the reason to play and the hours spent on play time.
 
-| Sports | Reason to play this Sport    | Hours spent on sports   |
+| Sport | Reason    | Hours spent  |
 | :----: | :------------------------------: | :-------------: |
 | Swimming | leg exercise and arm exercise  | 2 hr  |
 | Cycling | fitness exercise and arm exercise | 2 hr |
