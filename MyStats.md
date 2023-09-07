@@ -20,4 +20,5 @@ The table below tells 4 different sports, the reason to play and the hours spent
 
 # Quotes told by Famous Scientists
 > "The important thing is not to stop questioning." - ***Albert Einstein*** <br/>
+
 > "In science, there are no shortcuts to truth." - ***Karl Popper***
