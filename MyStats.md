@@ -41,3 +41,4 @@ go to StackOverflow : <https://stackoverflow.com/questions/168455/how-do-you-pos
 <iframe name="my-iframe" src="iframe.php"></iframe>
 
 ``````
+>Snippet source code HTML:<https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
