@@ -13,7 +13,7 @@ If you're looking for the ultimate escape from the **Daily grind***, I highly re
 2. Manikarnika ghat location visit
 3. Banarasi silk cloth purchase
 
-### Food we can get at VARANASI
+## Food we can get at VARANASI
 * Puri
 * Chepati
 * Pongal
